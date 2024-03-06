@@ -1,0 +1,1 @@
+Este repositorio contiene un pequeño proyecto de aprendizaje automático desarrollado con TensorFlow para entrenar un modelo capaz de convertir temperaturas de Celsius a Fahrenheit. Incluye el código fuente, datos de entrenamiento y documentación relevante
